@@ -1,4 +1,4 @@
-# HW: CryotoCiphers-bfung22
+# HW: Crypto Ciphers
 #### Author: Benny Fung
 
 ### Python program that utilises five different cipher algorithms to encrypt/decrypt a given file.
